@@ -1,5 +1,7 @@
 # directorytree
 
+(First nightly description)
+
 ### Description ###
 
 This simple program allows you to visualize the structure of a directory (the tree including sub-directories) in a fancy way.

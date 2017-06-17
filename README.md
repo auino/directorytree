@@ -29,7 +29,7 @@ git clone https://github.com/auino/directorytree.git
 python generatedata.py '~'
 ```
 
-  where `~` identifies the directory to be parsed.
+    where `~` identifies the directory to be parsed.
 
  4. show the generated graph (macOS command):
 

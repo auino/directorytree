@@ -1,6 +1,6 @@
 # directorytree
 
-"Nightly" description
+["Nightly" description]
 
 ### Description ###
 
